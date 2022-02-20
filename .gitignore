@@ -1,0 +1,6 @@
+/__pycache__/
+aiii-developer-database-credential.json
+seg_context.json
+.DS_Store
+/.ipynb_checkpoints/
+model/
